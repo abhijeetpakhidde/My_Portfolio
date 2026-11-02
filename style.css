@@ -64,7 +64,7 @@ main hr {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 100px 0;
+  margin: 150px 0;
 }
 .firstsection div {
   width: 40%;
